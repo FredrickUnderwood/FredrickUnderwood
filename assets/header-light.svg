@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">FredrickUnderwood — Tools for real life.</title>
+  <desc id="desc">Open source projects in quantitative research, DevOps, and AI agents, represented by Q4D, Agenda, and AI modules.</desc>
+  <rect width="1280" height="300" rx="16" fill="#F6F5EF"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="61" cy="61" r="5" fill="#18836D"/>
+    <text x="79" y="66" fill="#52625B" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" letter-spacing="1.5">FREDRICKUNDERWOOD / OPEN SOURCE</text>
+    <text x="54" y="155" fill="#172820" font-size="68" font-weight="700" letter-spacing="-2.5">Tools for real life.</text>
+    <text x="57" y="202" fill="#52625B" font-size="23" letter-spacing="0.1">Quant research · DevOps · AI agents</text>
+  </g>
+
+  <path d="M56 253H782" stroke="#DCDDD3" stroke-width="1"/>
+  <path d="M56 253H104" stroke="#18836D" stroke-width="3"/>
+
+  <g fill="none" stroke="#BFCAC1" stroke-width="1.5">
+    <path d="M919 151H952Q960 151 960 143V79Q960 71 968 71H1036"/>
+    <path d="M919 151H995"/>
+    <path d="M919 151H952Q960 151 960 159V223Q960 231 968 231H1063"/>
+  </g>
+
+  <rect x="863" y="123" width="56" height="56" rx="14" fill="#E6EEE7" stroke="#C7D6CA"/>
+  <path d="M880 143L889 151L880 159M896 159H903" fill="none" stroke="#18836D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#223A2C">
+    <rect x="1036" y="43" width="176" height="56" rx="10" fill="#FFFFFF" stroke="#D7DED3"/>
+    <circle cx="1060" cy="71" r="4" fill="#18836D"/>
+    <text x="1076" y="78" letter-spacing="0.8">Q4D</text>
+    <path d="M1173 77V67M1181 77V61M1189 77V70" stroke="#719D80" stroke-width="2.5" stroke-linecap="round"/>
+
+    <rect x="995" y="123" width="217" height="56" rx="10" fill="#E6EEE7" stroke="#C7D6CA"/>
+    <circle cx="1019" cy="151" r="4" fill="#18836D"/>
+    <text x="1035" y="158" letter-spacing="0.8">AGENDA</text>
+    <path d="M1173 146H1189M1173 156H1189" stroke="#719D80" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1177" cy="146" r="3" fill="#E6EEE7" stroke="#719D80" stroke-width="2"/>
+    <circle cx="1185" cy="156" r="3" fill="#E6EEE7" stroke="#719D80" stroke-width="2"/>
+
+    <rect x="1063" y="203" width="149" height="56" rx="10" fill="#FFFFFF" stroke="#D7DED3"/>
+    <circle cx="1087" cy="231" r="4" fill="#18836D"/>
+    <text x="1103" y="238" letter-spacing="0.8">AI</text>
+    <path d="M1181 222V240M1172 231H1190M1176 226L1186 236M1176 236L1186 226" stroke="#719D80" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
