@@ -3,50 +3,25 @@
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Fredrick Underwood — Tools for real life. Quant research, DevOps and AI agents." src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-en-dark.svg">
+  <img alt="Fredrick" src="./assets/header-en-light.svg" width="100%">
 </picture>
 
-## Hi, I'm Fredrick
+<p align="center">
+  <a href="https://www.zhihu.com/people/9a26b059593904db52fc5de30c51cb41"><img src="./assets/social-zhihu.svg" height="36" alt="Zhihu"></a>
+  &nbsp;
+  <img src="./assets/social-xhs.svg" height="36" alt="Xiaohongshu ID 2684759451">
+  &nbsp;
+  <a href="https://github.com/FredrickUnderwood"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/social-github-dark.svg">
+    <img src="./assets/social-github-light.svg" height="36" alt="GitHub FredrickUnderwood">
+  </picture></a>
+</p>
 
-Former engineer at ByteDance, now building independent projects. I turn everyday problems into tools for myself and my family, and share them here.
+<a href="https://github.com/FredrickUnderwood/Quant4Dad-OpenSource"><img src="./assets/q4d-en.svg" width="100%" alt="Quant4Dad, a local-first quant research workbench: candlesticks with MA5 and MA20 crossovers, a backtest equity curve, and an event pipeline that ends in a Feishu notification."></a>
 
-My work spans **quantitative research**, **self-hosted infrastructure** and **AI developer tools**, mostly with Go, TypeScript and Python.
+<a href="https://github.com/FredrickUnderwood/Agenda-V2"><img src="./assets/agenda-en.svg" width="100%" alt="Agenda, self-hosted DevOps for vibe coders: a repo with docker-compose.yml deploys through the control plane to agenda-node machines, the gateway serves snapcoach.cn over HTTPS, and a terminal shows a blue-green deploy."></a>
 
-## Featured projects
+<a href="https://apps.apple.com/app/id6782626710"><img src="./assets/snapcoach-en.svg" width="100%" alt="SnapPilot (上手拍), a real-time photo coach on the App Store: five screenshots of the camera giving tips on composition, angle and pose."></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/FredrickUnderwood/Quant4Dad-OpenSource">Q4D · Quant4Dad</a></h3>
-      <p><strong>A local-first workspace for quantitative research.</strong></p>
-      <p>Bring market data, strategy backtesting and event pipelines into one workbench, with optional AI assistance and MCP integration.</p>
-      <p>SQLite by default · Docker deployment</p>
-      <p><code>Go</code> <code>React</code> <code>TypeScript</code> <code>SQLite</code></p>
-      <p><a href="https://github.com/FredrickUnderwood/Quant4Dad-OpenSource#readme">Explore Q4D →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/FredrickUnderwood/Agenda-V2">Agenda</a></h3>
-      <p><strong>A self-hosted DevOps platform for Vibe Coders.</strong></p>
-      <p>Deploy applications on your own servers and manage routing, HTTPS, logs, monitoring and alerts from a single console.</p>
-      <p>Docker Compose · Blue-green deployments</p>
-      <p><code>Go</code> <code>React</code> <code>TypeScript</code> <code>Docker</code></p>
-      <p><a href="https://github.com/FredrickUnderwood/Agenda-V2#readme">Explore Agenda →</a></p>
-    </td>
-  </tr>
-</table>
-
-## More things I've built
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[PaiGo](https://github.com/FredrickUnderwood/PaiGo)** | A composable SDK for tool-using AI agents, inspired by Pi Agent. Handles streaming, tool execution and multi-turn orchestration. | Go |
-| **[Vibe Debugger](https://github.com/FredrickUnderwood/Vibe-Debugger)** | Gives Claude Code access to browser console output, network requests and runtime errors through a local daemon and MCP. | Go · TypeScript |
-| **[Vibe with Xbox](https://github.com/FredrickUnderwood/vibe-with-xbox)** | Turns an Xbox controller into a macOS remote for Claude Code, Dictation and tmux. | Python |
-
-## Say hello
-
-Using one of these tools? I'd love to hear what you're building and where you get stuck. Open an issue in the relevant repository; bug reports, ideas and pull requests are welcome.
-
-[Browse all repositories →](https://github.com/FredrickUnderwood?tab=repositories)
+<p align="center"><sub>Also built: <a href="https://github.com/FredrickUnderwood/PaiGo">PaiGo</a> / <a href="https://github.com/FredrickUnderwood/Vibe-Debugger">Vibe Debugger</a> / <a href="https://github.com/FredrickUnderwood/vibe-with-xbox">Vibe with Xbox</a></sub></p>
